@@ -1,6 +1,6 @@
 {
   "name": "me-pageloading",
-  "version": "0.4.0",
+  "version": "0.3.5",
   "description": "svg based pageloading for angular",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Treri/me-pageloading.git"
+    "url": "https://github.com/saighost/me-pageloading.git"
   },
   "bugs": {
     "url": "https://github.com/Treri/me-pageloading/issues"
